@@ -7,7 +7,7 @@
 ### 👨‍💻 About me
 
 ```typescript
-const dallin = {
+const Dallin = {
   country: "🇪🇨 Ecuador",
   role: "Software Engineer",
   email: "dxmiranda.dev@gmail.com",
@@ -78,11 +78,11 @@ const dallin = {
 
 ###
 ## 🎼 Some vibes
-<div align="center">
-  <a href="https://open.spotify.com/user/31fyyvwzoxxeka62rgkhejznndvi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fyyvwzoxxeka62rgkhejznndvi&count=5" alt="Spotify recently played"  />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fyyvwzoxxeka62rgkhejznndvi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fyyvwzoxxeka62rgkhejznndvi&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark">
   </a>
-</div>
+</p>
 
 ###
 
